@@ -1,11 +1,11 @@
 # Olá, Seja Bem-Vindo(a) a Nossa Organização 👋
 
-<img src="CodeSensor.png" width="400px" align="left">
+<img src="CodeSensor.png" width="300px" align="left">
 
 <br>
 
 ### Somos uma organização formada por um grupo de 7 alunos para fins educativos e a criação de propostas e soluções criativas para problemas reais.
-### A CodeSensor é uma empresa de tecnologia que utiliza IoT, com o objetivo principal de desenvolver propostas simples e soluções efetivas para problemas de monitoramento de carnes embaladas em transportes.
+### A CodeSensor é uma empresa tecnológica que utiliza IoT, com o principal objetivo de desenvolver propostas simples e efetivas para problemas de monitoramento de carnes embaladas em transportes.
 
 ##
 ‣ 👨‍🚀 [Gustavo Kohatsu](https://github.com/Gustavo-Kohatsu)
