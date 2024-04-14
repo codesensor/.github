@@ -1,6 +1,6 @@
 # Olá, Seja Bem-Vindo(a) a Nossa Organização 👋
 
-<img src="https://github.com/codesensor/.github/blob/main/profile/CodeSensor%20BG%20WHITE.png" width="350px" height="200px" align="left">
+<img src="https://github.com/codesensor/.github/blob/main/profile/CodeSensor%20BG%20WHITE.png" width="350px" height="250px" align="left">
 
 <br>
 
