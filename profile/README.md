@@ -1,6 +1,6 @@
 # Olá, Seja Bem-Vindo(a) a Nossa Organização 👋
 
-<img src="CodeSensor.png" width="300px" align="left">
+<img src="CodeSensor TESTE.png" width="300px" align="left">
 
 <br>
 
